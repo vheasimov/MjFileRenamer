@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/FilesNames">
+        <file>Resources/file.png</file>
+        <file>Resources/folder.png</file>
+        <file>Resources/arrow.png</file>
+    </qresource>
+</RCC>
